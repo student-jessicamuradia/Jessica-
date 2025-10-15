@@ -7,7 +7,6 @@
 ## 💡 About Me
 - 📊 Skilled in Excel, Power BI, SQL, Python (Pandas,Numpy,Seaborn,Matplotlib)
 - 🔍 Passionate about data analytics and business insights
-- 🌱 Currently learning Korean (TOPIK prep) and exploring CRM analytics
 - 🎯 Goal: Land a role as a Data Analyst / Data Analyst
 
 ---
