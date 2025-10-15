@@ -1,27 +1,31 @@
-# Jessica-
-Hi , Jessica This Side
-<h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# Hi there 👋, I'm Jessica
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudent-jessicamuradia&label=Profile%20views&color=0e75b6&style=flat" alt="sudent-jessicamuradia" /> </p>
+🚀 Aspiring Data Analyst | Business Analyst
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudent-jessicamuradia" alt="sudent-jessicamuradia" /></a> </p>
+---
 
-- 🌱 I’m currently learning **| Python • SQL • Power BI • Excel**
+## 💡 About Me
+- 📊 Skilled in Excel, Power BI, SQL, Python (Pandas,Numpy,Seaborn,Matplotlib)
+- 🔍 Passionate about data analytics and business insights
+- 🌱 Currently learning Korean (TOPIK prep) and exploring CRM analytics
+- 🎯 Goal: Land a role as a Data Analyst / Data Analyst
 
-- 📫 How to reach me **jessicamuradia@gmail.com**
+---
 
-- ⚡ Fun fact **Passionate about uncovering insights through data analytics,Data Analyst | Exploring trends, visualizing insights, driving decisions 📈**
+## 🛠 Tools & Technologies
+- **Data Analysis:** Python (Pandas, Matplotlib, Seaborn), SQL, Excel
+- **Visualization:** Power BI, Excel Dashboards
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessica-muradia-76b525328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-muradia-76b525328/" height="30" width="40" /></a>
-<a href="https://instagram.com/jessica_muradia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jessica_muradia" height="30" width="40" /></a>
-</p>
+[![Excel](https://img.shields.io/badge/Excel-007236?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudent-jessicamuradia&show_icons=true&locale=en&layout=compact" alt="sudent-jessicamuradia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudent-jessicamuradia&show_icons=true&locale=en" alt="sudent-jessicamuradia" /></p>
