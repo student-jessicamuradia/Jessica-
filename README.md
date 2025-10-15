@@ -27,4 +27,14 @@
 
 ---
 
+📂 Projects
+📊 SuperStore Sales Dashboard Power BI Analysis
+📈 Nike Sales Dashboard – Power BI Dashboard Analyzing 
+📊 SuperStore Sales Dashboard - Excel Dashboard Analysis 
+🛍️ Python Projects (EDA-UDA) – EDA on Google PlayStore, Flights, Red and White Wine datasets
 
+---
+
+📫 Connect With Me
+💼 LinkedIn - www.linkedin.com/in/jessica-muradia-76b525328
+📧 Email: jessicamuradia@gmail.com
