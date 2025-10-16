@@ -37,12 +37,15 @@
 
 📂 Projects
 📊 SuperStore Sales Dashboard Power BI Analysis
+
 📈 Nike Sales Dashboard – Power BI Dashboard Analyzing 
+
 📊 SuperStore Sales Dashboard - Excel Dashboard Analysis 
+
 🛍️ Python Projects (EDA-UDA) – EDA on Google PlayStore, Flights, Red and White Wine datasets
 
 ---
 
 🤝 Connect With Me
-<p align="center"> <a href="https://github.com/yourusername" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a> <a href="https://www.instagram.com/yourinstagram/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://github.com/student-jessicamuradia" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/jessica-muradia-76b525328/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a> <a href="https://www.instagram.com/jessica_muradia/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/> </a> </p>
 
