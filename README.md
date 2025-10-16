@@ -1,13 +1,16 @@
 # Hi there 👋, I'm Jessica
 
-🚀 Aspiring Data Analyst | Business Analyst
+🎓 Data Analyst | Power BI | Python | SQL | Excel
+💡 Passionate about transforming raw data into actionable insights and creating impactful dashboards.
 
 ---
 
-## 💡 About Me
-- 📊 Skilled in Excel, Power BI, SQL, Python (Pandas,Numpy,Seaborn,Matplotlib)
-- 🔍 Passionate about data analytics and business insights
-- 🎯 Goal: Land a role as a Data Analyst / Data Analyst
+##🧠 About Me
+
+🔍 Data-driven enthusiast with a love for storytelling through visuals.
+📊 Skilled in Power BI, Excel, SQL, and Python.
+🚀 Currently working on dashboard projects like Nike Sales & Superstore Sales.
+🎯 Goal: To grow as a data analyst and contribute to business growth with insights.
 
 ---
 
@@ -38,3 +41,4 @@
 📫 Connect With Me
 💼 LinkedIn - www.linkedin.com/in/jessica-muradia-76b525328
 📧 Email: jessicamuradia@gmail.com
+
